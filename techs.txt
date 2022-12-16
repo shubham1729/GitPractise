@@ -13,3 +13,7 @@ Sample Techs:
         MongoDB
         Postgres
         MariaDB
+
+    Editors:
+        Sublime Text
+        VsCode
