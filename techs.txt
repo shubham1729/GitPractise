@@ -4,15 +4,14 @@ Sample Techs:
         React
         Angular
         Vue
-<<<<<<< Updated upstream
-=======
 
     Backend:
         Django
         Flask
+        Express
+        LoopBack
 
     DB:
         MongoDB
         Postgres
         MariaDB
->>>>>>> Stashed changes
