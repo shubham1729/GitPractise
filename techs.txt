@@ -4,3 +4,7 @@ Sample Techs:
         React
         Angular
         Vue
+
+    Backend:
+        Django
+        Flask
