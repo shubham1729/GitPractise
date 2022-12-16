@@ -1,0 +1,6 @@
+Sample Techs:
+    
+    Frontend:
+        React
+        Angular
+        Vue
