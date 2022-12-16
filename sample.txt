@@ -12,3 +12,8 @@ Portugal
 Netherlands
 Finland
 
+Some sample Fruits:
+
+Apple
+PineApple
+Cherry
