@@ -11,3 +11,10 @@ Some sample countries:
 Portugal
 Netherlands
 Finland
+
+Some sample fruits:
+
+Apple
+PineApple
+Cherry
+Avacado
